@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yndhacker
+- 👀 I’m interested in coding these days
+- 🌱 I’m currently learning HTML 5
+- ⚡ Fun fact: I want to become a black hat
